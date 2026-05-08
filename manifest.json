@@ -1,0 +1,1028 @@
+[
+  {
+    "name": "acceptance-criteria",
+    "repo": "product-on-purpose/pm-skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "antfu",
+    "repo": "antfu/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "architecture-decision",
+    "repo": "jwynia/agent-skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "architecture-patterns",
+    "repo": "wshobson/agents",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "autoplan",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "backend-dev-guidelines",
+    "repo": "sickn33/antigravity-awesome-skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "bash-scripting",
+    "repo": "mindrally/skills",
+    "file": "infrastructure-and-databases.md",
+    "kind": "repo"
+  },
+  {
+    "name": "benchmark",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "benchmark-models",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "brainstorming",
+    "repo": "obra/superpowers",
+    "file": "thinking-models.md",
+    "kind": "repo"
+  },
+  {
+    "name": "browse",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "bubbletea",
+    "repo": "GGPrompts/TFE",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "canary",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "careful",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "caveman",
+    "repo": "mattpocock/skills",
+    "file": "meta-skills.md",
+    "kind": "repo"
+  },
+  {
+    "name": "clean-architecture",
+    "repo": "mindrally/skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "clean-code",
+    "repo": "AbsolutelySkilled/AbsolutelySkilled",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "code-review",
+    "repo": "google-gemini/gemini-cli",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "code-simplification",
+    "repo": "addyosmani/agent-skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "codex",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "commit-work",
+    "repo": "softaworks/agent-toolkit",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "context-engineering",
+    "repo": "addyosmani/agent-skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "context-restore",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "context-save",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "copywriting",
+    "repo": "coreyhaines31/marketingskills",
+    "file": "business-and-growth.md",
+    "kind": "repo"
+  },
+  {
+    "name": "crafting-effective-readmes",
+    "repo": "softaworks/agent-toolkit",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "create-adaptable-composable",
+    "repo": "vuejs-ai/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "cso",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "css",
+    "repo": "mindrally/skills",
+    "file": "design-and-interface.md",
+    "kind": "repo"
+  },
+  {
+    "name": "design-consultation",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "design-html",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "design-md",
+    "repo": "google-labs-code/stitch-skills",
+    "file": "design-and-interface.md",
+    "kind": "repo"
+  },
+  {
+    "name": "design-review",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "design-shotgun",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "design-sprint",
+    "repo": "wondelai/skills",
+    "file": "thinking-models.md",
+    "kind": "repo"
+  },
+  {
+    "name": "design-systems",
+    "repo": "mindrally/skills",
+    "file": "design-and-interface.md",
+    "kind": "repo"
+  },
+  {
+    "name": "design-thinking",
+    "repo": "melodic-software/design-thinking",
+    "file": "thinking-models.md",
+    "kind": "repo"
+  },
+  {
+    "name": "devex-review",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "diagnose",
+    "repo": "mattpocock/skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "django-python",
+    "repo": "mindrally/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "docker-containerization",
+    "repo": "ailabs-393/ai-labs-claude-skills",
+    "file": "infrastructure-and-databases.md",
+    "kind": "repo"
+  },
+  {
+    "name": "document-release",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "documentation-and-adrs",
+    "repo": "addyosmani/agent-skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "documentation-writer",
+    "repo": "github/awesome-copilot",
+    "file": "meta-skills.md",
+    "kind": "repo"
+  },
+  {
+    "name": "domain-driven-design",
+    "repo": "wondelai/skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "fastapi",
+    "repo": "fastapi/fastapi",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "fastify-typescript",
+    "repo": "mindrally/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "find-skills",
+    "repo": "vercel-labs/skills",
+    "file": "meta-skills.md",
+    "kind": "repo"
+  },
+  {
+    "name": "finishing-a-development-branch",
+    "repo": "obra/superpowers",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "first-principles-thinking",
+    "repo": "akshat10/skills",
+    "file": "thinking-models.md",
+    "kind": "repo"
+  },
+  {
+    "name": "freeze",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "frontend-design",
+    "repo": "anthropics/skills",
+    "file": "design-and-interface.md",
+    "kind": "repo"
+  },
+  {
+    "name": "frontend-skill",
+    "repo": "openai/skills",
+    "file": "design-and-interface.md",
+    "kind": "repo"
+  },
+  {
+    "name": "go-best-practices",
+    "repo": "samber/cc-skills-golang",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "golang-pro",
+    "repo": "jeffallan/claude-skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "golang-testing",
+    "repo": "samber/cc-skills-golang",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "grill-me",
+    "repo": "mattpocock/skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "grill-with-docs",
+    "repo": "mattpocock/skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "gstack-upgrade",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "guard",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "gws-docs-write",
+    "repo": "googleworkspace/cli",
+    "file": "meta-skills.md",
+    "kind": "repo"
+  },
+  {
+    "name": "health",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "improve-codebase-architecture",
+    "repo": "mattpocock/skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "information-architecture",
+    "repo": "julianoczkowski/designer-skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "interaction-design",
+    "repo": "wshobson/agents",
+    "file": "design-and-interface.md",
+    "kind": "repo"
+  },
+  {
+    "name": "investigate",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "java",
+    "repo": "mindrally/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "java-springboot",
+    "repo": "github/awesome-copilot",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "javascript-mastery",
+    "repo": "sickn33/antigravity-awesome-skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "jobs-to-be-done",
+    "repo": "wondelai/skills",
+    "file": "thinking-models.md",
+    "kind": "repo"
+  },
+  {
+    "name": "land-and-deploy",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "landing-report",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "learn",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "legacy-modernizer",
+    "repo": "jeffallan/claude-skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "make-pdf",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "marketing-ideas",
+    "repo": "coreyhaines31/marketingskills",
+    "file": "business-and-growth.md",
+    "kind": "repo"
+  },
+  {
+    "name": "mckinsey-framework",
+    "repo": "nicepkg/ai-workflow",
+    "file": "thinking-models.md",
+    "kind": "repo"
+  },
+  {
+    "name": "mom-test",
+    "repo": "wondelai/skills",
+    "file": "thinking-models.md",
+    "kind": "repo"
+  },
+  {
+    "name": "mysql-best-practices",
+    "repo": "planetscale/database-skills",
+    "file": "infrastructure-and-databases.md",
+    "kind": "repo"
+  },
+  {
+    "name": "nextjs-app-router",
+    "repo": null,
+    "file": "languages-and-frameworks.md",
+    "kind": "community"
+  },
+  {
+    "name": "nielsen-heuristics-audit",
+    "repo": "mastepanoski/claude-skills",
+    "file": "design-and-interface.md",
+    "kind": "repo"
+  },
+  {
+    "name": "nodejs-best-practices",
+    "repo": "sickn33/antigravity-awesome-skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "nodejs-development",
+    "repo": "mindrally/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "nuxt",
+    "repo": "antfu/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "office-hours",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "open-gstack-browser",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "pair-agent",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "pinia",
+    "repo": "antfu/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "plan-ceo-review",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "plan-design-review",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "plan-devex-review",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "plan-eng-review",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "plan-tune",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "planning-with-files",
+    "repo": "OthmanAdi/planning-with-files",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "pnpm",
+    "repo": "antfu/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "postgres-best-practices",
+    "repo": "neondatabase/postgres-skills",
+    "file": "infrastructure-and-databases.md",
+    "kind": "repo"
+  },
+  {
+    "name": "product-manager-skills",
+    "repo": "assimovt/productskills",
+    "file": "business-and-growth.md",
+    "kind": "repo"
+  },
+  {
+    "name": "project-docs-rules",
+    "repo": null,
+    "file": "software-development.md",
+    "kind": "local"
+  },
+  {
+    "name": "python-best-practices",
+    "repo": "0xbigboss/claude-code",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "python-testing-patterns",
+    "repo": "wshobson/agents",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "qa",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "qa-only",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "react-best-practices",
+    "repo": "vercel-labs/agent-skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "readme-blueprint-generator",
+    "repo": "github/awesome-copilot",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "requirements-analysis",
+    "repo": "jwynia/agent-skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "retro",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "review",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "scrape",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "senior-architect",
+    "repo": "alirezarezvani/claude-skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "setup-browser-cookies",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "setup-deploy",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "setup-gbrain",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "setup-matt-pocock-skills",
+    "repo": "mattpocock/skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "ship",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "six-thinking-hats",
+    "repo": "neurofoo/agent-skills",
+    "file": "thinking-models.md",
+    "kind": "repo"
+  },
+  {
+    "name": "skillify",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "slidev",
+    "repo": "slidevjs/slidev",
+    "file": "specialized-domains.md",
+    "kind": "repo"
+  },
+  {
+    "name": "socratic-questioning",
+    "repo": "neurofoo/agent-skills",
+    "file": "thinking-models.md",
+    "kind": "repo"
+  },
+  {
+    "name": "solidity",
+    "repo": "mindrally/skills",
+    "file": "specialized-domains.md",
+    "kind": "repo"
+  },
+  {
+    "name": "solidity-security",
+    "repo": "wshobson/agents",
+    "file": "specialized-domains.md",
+    "kind": "repo"
+  },
+  {
+    "name": "sql-best-practices",
+    "repo": "sanjeed5/awesome-cursor-rules-mdc",
+    "file": "infrastructure-and-databases.md",
+    "kind": "repo"
+  },
+  {
+    "name": "sqlite-best-practices",
+    "repo": "tursodatabase/agent-skills",
+    "file": "infrastructure-and-databases.md",
+    "kind": "repo"
+  },
+  {
+    "name": "stitch-loop",
+    "repo": "google-labs-code/stitch-skills",
+    "file": "design-and-interface.md",
+    "kind": "repo"
+  },
+  {
+    "name": "sync-gbrain",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "system-design",
+    "repo": "jwynia/agent-skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "tdd",
+    "repo": "mattpocock/skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "tech-debt",
+    "repo": "anthropics/knowledge-work-plugins",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "tech-doc-style-chinese",
+    "repo": "aradotso/trending-skills",
+    "file": "meta-skills.md",
+    "kind": "repo"
+  },
+  {
+    "name": "technical-writing",
+    "repo": "supercent-io/skills-template",
+    "file": "meta-skills.md",
+    "kind": "repo"
+  },
+  {
+    "name": "terminal-ui",
+    "repo": "pproenca/dot-skills",
+    "file": "design-and-interface.md",
+    "kind": "repo"
+  },
+  {
+    "name": "thinking-partner",
+    "repo": "mattnowdev/thinking-partner",
+    "file": "thinking-models.md",
+    "kind": "repo"
+  },
+  {
+    "name": "threejs-animation",
+    "repo": "cloudai-x/threejs-skills",
+    "file": "specialized-domains.md",
+    "kind": "repo"
+  },
+  {
+    "name": "threejs-fundamentals",
+    "repo": "cloudai-x/threejs-skills",
+    "file": "specialized-domains.md",
+    "kind": "repo"
+  },
+  {
+    "name": "threejs-geometry",
+    "repo": "cloudai-x/threejs-skills",
+    "file": "specialized-domains.md",
+    "kind": "repo"
+  },
+  {
+    "name": "threejs-interaction",
+    "repo": "cloudai-x/threejs-skills",
+    "file": "specialized-domains.md",
+    "kind": "repo"
+  },
+  {
+    "name": "threejs-lighting",
+    "repo": "cloudai-x/threejs-skills",
+    "file": "specialized-domains.md",
+    "kind": "repo"
+  },
+  {
+    "name": "threejs-loaders",
+    "repo": "cloudai-x/threejs-skills",
+    "file": "specialized-domains.md",
+    "kind": "repo"
+  },
+  {
+    "name": "threejs-postprocessing",
+    "repo": "cloudai-x/threejs-skills",
+    "file": "specialized-domains.md",
+    "kind": "repo"
+  },
+  {
+    "name": "threejs-shaders",
+    "repo": "cloudai-x/threejs-skills",
+    "file": "specialized-domains.md",
+    "kind": "repo"
+  },
+  {
+    "name": "to-issues",
+    "repo": "mattpocock/skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "to-prd",
+    "repo": "mattpocock/skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "triage",
+    "repo": "mattpocock/skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "tsdown",
+    "repo": "antfu/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "turborepo",
+    "repo": "antfu/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "typescript-advanced-types",
+    "repo": "wshobson/agents",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "ui-ux-pro-max",
+    "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "file": "design-and-interface.md",
+    "kind": "repo"
+  },
+  {
+    "name": "understand",
+    "repo": "Lum1104/Understand-Anything",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "understand-domain",
+    "repo": "Lum1104/Understand-Anything",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "unfreeze",
+    "repo": "garrytan/gstack",
+    "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "unocss",
+    "repo": "antfu/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "user-research-synthesis",
+    "repo": "anthropics/knowledge-work-plugins",
+    "file": "business-and-growth.md",
+    "kind": "repo"
+  },
+  {
+    "name": "user-stories",
+    "repo": "product-on-purpose/pm-skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "using-git-worktrees",
+    "repo": "obra/superpowers",
+    "file": "software-development.md",
+    "kind": "repo"
+  },
+  {
+    "name": "vercel-composition-patterns",
+    "repo": "vercel-labs/agent-skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "vercel-react-best-practices",
+    "repo": "vercel-labs/agent-skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "vercel-react-view-transitions",
+    "repo": "vercel-labs/agent-skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "vite",
+    "repo": "antfu/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "vitepress",
+    "repo": "antfu/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "vitest",
+    "repo": "antfu/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "vue",
+    "repo": "antfu/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "vue-best-practices",
+    "repo": "vuejs-ai/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "vue-debug-guides",
+    "repo": "vuejs-ai/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "vue-jsx-best-practices",
+    "repo": "vuejs-ai/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "vue-pinia-best-practices",
+    "repo": "vuejs-ai/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "vue-router-best-practices",
+    "repo": "vuejs-ai/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "vue-testing-best-practices",
+    "repo": "vuejs-ai/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "vueuse-functions",
+    "repo": "vueuse/skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
+    "name": "web-design-guidelines",
+    "repo": "vercel-labs/agent-skills",
+    "file": "design-and-interface.md",
+    "kind": "repo"
+  },
+  {
+    "name": "write-a-skill",
+    "repo": "mattpocock/skills",
+    "file": "meta-skills.md",
+    "kind": "repo"
+  },
+  {
+    "name": "writing-clearly-and-concisely",
+    "repo": "softaworks/agent-toolkit",
+    "file": "meta-skills.md",
+    "kind": "repo"
+  },
+  {
+    "name": "zoom-out",
+    "repo": "mattpocock/skills",
+    "file": "software-development.md",
+    "kind": "repo"
+  }
+]
