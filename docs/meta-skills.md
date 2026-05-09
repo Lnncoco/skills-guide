@@ -11,8 +11,8 @@
 ### 文档措辞、重写与风格
 
 - **`technical-writing`** ([supercent-io/skills-template](https://github.com/supercent-io/skills-template))
-    - **介绍**：聚焦技术文档里的措辞、句子密度、术语落点和说明清晰度。
-    - **场景**：你觉得内容本身没错，但读起来拧巴、抽象、重复，或者总像在“解释给自己听”而不是写给读者看时。
+    - **介绍**：聚焦技术文档的结构、表达和读者导向，也能处理措辞、句子密度、术语落点和说明清晰度。
+    - **场景**：你手里已经有技术内容，但需要把它整理成更像正式开发文档的表达时。
 
 - **`writing-clearly-and-concisely`** ([softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit))
     - **介绍**：用更明确、更克制的写法重写说明文字，重点处理空话、赘词、被动语态和 AI 味过重的句子。

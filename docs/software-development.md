@@ -57,7 +57,14 @@
 - **`crafting-effective-readmes`** ([softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit))
     - **介绍**：专注于把 README、总览页和导览页写成符合目标读者预期的入口文档，而不是信息堆砌。
     - **场景**：项目已经有不少内容，但首页仍然像维护者笔记，缺少明确定位、阅读顺序和基本结构时。
+    - **组合**：适合作为 `technical-writing` 的入口层搭档；`technical-writing` 负责主体内容，`crafting-effective-readmes` 负责把入口页和阅读顺序收好。
     - **补充**：更偏“文档应该长成什么样”，不是单纯润色句子。
+
+- **`technical-writing`** ([supercent-io/skills-template](https://github.com/supercent-io/skills-template))
+    - **介绍**：面向开发者文档的主力 skill，适合把代码逻辑、模块职责、数据流向、改动边界和维护建议整理成可读、可维护的文档。
+    - **场景**：你不是要写对外文档，而是要给新人或后续维护者留下一份“这套代码现在是怎么工作的”说明时。
+    - **组合**：通常和 `system-design`、`crafting-effective-readmes` 配合；`system-design` 先梳理模块边界和主链路，`technical-writing` 负责沉淀主体内容，`crafting-effective-readmes` 负责把入口页和阅读顺序收好。
+    - **补充**：更适合产出少量核心文档，例如 `README` 入口页加一份 `architecture.md` 主文档，而不是铺很多零散页面。
 
 - **`readme-blueprint-generator`** ([github/awesome-copilot](https://github.com/github/awesome-copilot))
     - **介绍**：为 README 或概览页提供结构蓝图，帮助先定信息层级，再补具体内容。
@@ -172,6 +179,27 @@
 - **`clean-code`** ([AbsolutelySkilled/AbsolutelySkilled](https://github.com/AbsolutelySkilled/AbsolutelySkilled))
     - **介绍**：围绕命名、函数边界、错误处理、测试和 code smells 建立日常整洁治理基线。
     - **场景**：代码开始变得难读，但问题还没严重到要做大重构时。
+    - **组合**：它更像总纲。做 diff 审查时搭 `code-review-mastery`，做无行为变更重构时搭 `refactoring-patterns`，设计测试覆盖策略时搭 `test-strategy`，问题上升到分层和依赖方向时切到 `clean-architecture`。
+
+- **`code-review-mastery`** ([AbsolutelySkilled/AbsolutelySkilled](https://github.com/AbsolutelySkilled/AbsolutelySkilled))
+    - **介绍**：面向本地 diff 的结构化代码审查 skill，强调按严重级别输出问题，而不是泛泛而谈。
+    - **场景**：你想 review staged / unstaged 改动，确认提交前有没有明显 bug、风险点、缺测试或违反项目约束时。
+    - **组合**：和 `clean-code` 很搭；`clean-code` 提供质量判断框架，`code-review-mastery` 把它落实到具体 diff 审查流程里。
+
+- **`refactoring-patterns`** ([AbsolutelySkilled/AbsolutelySkilled](https://github.com/AbsolutelySkilled/AbsolutelySkilled))
+    - **介绍**：把 Extract Method、Decompose Conditional、Introduce Parameter Object 这类经典重构动作系统化。
+    - **场景**：你已经确定“这里该重构”，并且希望在不改行为的前提下做一轮更有章法的结构整理时。
+    - **组合**：适合作为 `clean-code` 的执行层补充；前者判断哪里不干净，后者帮助决定该用哪种重构手法。
+
+- **`test-strategy`** ([AbsolutelySkilled/AbsolutelySkilled](https://github.com/AbsolutelySkilled/AbsolutelySkilled))
+    - **介绍**：关注“测什么、在哪一层测、测多少”这类测试策略问题，而不是具体测试框架语法。
+    - **场景**：你不是不会写测试，而是不确定某段逻辑该写单测、集成测试还是端到端测试，或者想补一套更合理的测试覆盖时。
+    - **组合**：常和 `clean-code`、`refactoring-patterns` 连用；重构前后如果需要补安全网，它能帮助决定最值得先补哪些测试。
+
+- **`clean-architecture`** ([AbsolutelySkilled/AbsolutelySkilled](https://github.com/AbsolutelySkilled/AbsolutelySkilled))
+    - **介绍**：把 Clean Code 往上提升到分层、依赖方向、use case 边界和业务规则隔离。
+    - **场景**：问题已经不只是函数长、命名差，而是模块边界、依赖反转、业务逻辑与框架代码缠在一起时。
+    - **组合**：它和 `clean-code` 是上下层关系；`clean-code` 处理代码层整洁，`clean-architecture` 处理系统内部分层和依赖结构。
 
 ---
 
