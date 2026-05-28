@@ -6,6 +6,12 @@
     "kind": "repo"
   },
   {
+    "name": "ant-design-vue",
+    "repo": "partme-ai/full-stack-skills",
+    "file": "languages-and-frameworks.md",
+    "kind": "repo"
+  },
+  {
     "name": "antfu",
     "repo": "antfu/skills",
     "file": "languages-and-frameworks.md",
@@ -369,6 +375,12 @@
     "name": "health",
     "repo": "garrytan/gstack",
     "file": "pack-gstack.md",
+    "kind": "repo"
+  },
+  {
+    "name": "impeccable",
+    "repo": "pbakaus/impeccable",
+    "file": "pack-impeccable.md",
     "kind": "repo"
   },
   {
